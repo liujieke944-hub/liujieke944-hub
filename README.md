@@ -1,6 +1,7 @@
-# Pu.业余开发者|A2A探索者
+# Pu.LAMBEY
+业余开发者|A2A
 
-*Hobbyist Indie Developer · A2A Ecosystem Explorer*
+*Hobbyist  Developer · Explorer
 
 ## LAMBAY｜蓝贝聘聘
 
