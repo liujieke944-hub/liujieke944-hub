@@ -1,16 +1,48 @@
-## Hi there 👋
+# Pu.业余开发者|A2A探索者
 
-<!--
-**liujieke944-hub/liujieke944-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Hobbyist Indie Developer · A2A Ecosystem Explorer*
 
-Here are some ideas to get you started:
+## LAMBAY｜蓝贝聘聘
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 求职招聘将始于一段自然语言描述，且 Agent 将比你更懂你。
+
+### 项目定位
+
+LAMBAY｜蓝贝聘聘是一个以自然语言驱动求职与招聘需求的产品生态。以自然语言驱动需求，通过偏好梯度算法和四画像交叉匹配模型建立人岗双向匹配，最后由Candi-Agnet to Job-Agent接手执行，并长期基于用户行为和双向评价系统进行持续学习,以保持对结果和执行的修正和反馈。
+
+### 主要产品模块
+
+> 以下描述的是Demo版本中需实现的主要模块。
+
+1. **M1｜需求量化模型**：将自然语言中的需求、偏好和约束整理为可理解的画像信息，包括很难被量化的一些维度，如能力、性格特征等。
+2. **M2｜偏好梯度匹配模型**：表达不同需求的优先级、权重和可协商程度，双向匹配。
+3. **M3四画像交叉匹配系统**：交叉比较求职者与招聘方的需求和供给，形成双向匹配结果。
+4. **M4｜沟通建联系统**：帮助求职者和招聘方建立联系并开展沟通。
+5. **M5｜Candidate Agent ↔ Job Agent**：用户的Personal Agent会帮你交换信息和博弈，并推进后续求职/招聘流程。
+6. **M6｜行为分析模型**：结合用户行为信号，拆解并量化显性和隐性偏好，补充和修正匹配权重。
+7. **M67｜评价反馈闭环系统**：让双方评价成为改进后续匹配与服务的数据权重参考。
+8. **M8｜社区属性搭建**：在Personal Agent基础上，为职场人提供更高频、更深的信息交互空间。
+9. **M9｜行为分治理**：平台内唯一公认的行为量化通用货币，促进生态趋良循环。
+10. **M10｜职场一码通**：统一需求信息的跨用户、跨平台的口径，提高交互效率并基于此搭建职场人际网。
+11. **M11｜交易竞价逻辑**：招聘合作中的服务价值与交易规则更加清晰。
+12. **M12｜职业个人主页**：Personal Agent 背景下高信噪比用户个人主页的改革与搭建。
+
+### 当前阶段
+
+当前以微信小程序 Demo / MVP 为载体持续推进。因功能模块仍在开发中，当前 Demo 和仓库代码尚未公开。
+
+## 当前关注
+
+1. AI Native 视角下的求职招聘产品与生态。
+2. Agent-to-Agent（A2A）在求职产品中的实际应用，以及面向人岗场景的 Personal Agent 搭建。
+3. 基于用户注意力的偏好梯度算法与四画像交叉匹配模型，探索人岗内容的高效、有效匹配。
+4. 探索基于用户行为数据的深度学习系统，用于匹配结果与执行过程的持续纠偏和反馈。
+5. Personal Agent 背景下求职招聘社区的改革与搭建。
+6. Personal Agent 背景下高信噪比用户个人主页的改革与搭建。
+
+## 联系方式
+
+如需交流项目或合作，欢迎通过以下方式联系我：
+
+- Email：2452037069@qq.com
+- 微信：wjp_6621
